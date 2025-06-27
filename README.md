@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Grayson Butcher
 
 <!--
 **Graypbj/Graypbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I have been coding for about 5 years
+- I am currently building a workout tracker (it's in it's early stages)
+- I love full-stack development
+- If you are looking to hire, I would love to hear from you
