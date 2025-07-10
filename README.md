@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - I have been coding for about 5 years
-- I am currently building a workout tracker (it's in it's early stages)
+- I just finished a multiplayer, turn-based, Cowboy RPG
 - I love full-stack development
 - If you are looking to hire, I would love to hear from you
